@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="sina_share_pendding">Sending...</string>
-    <string name="sina_share_success">Sending successful!</string>
-    <string name="sina_share_fail">Sending failed!</string>
-    <string name="sina_token_expired_warning">Weibo account has expired, please rebind</string>
+    <string name="sina_share_pendding">அனுப்புதல்...</string>
+    <string name="sina_share_success">வெற்றிகரமான அனுப்புதல்!</string>
+    <string name="sina_share_fail">அனுப்புதல் தோல்வியடைந்தது!</string>
+    <string name="sina_token_expired_warning">Weibo கணக்கு காலாவதியாகி விட்டது, please தயவு செய்து</string>
     <string name="sina_token_invalid_warning">Weibo account is invalid, please rebind</string>
     <string name="app_name">வானிலை</string>
     <string name="weather_notification">வானிலை அறிவிப்பு</string>
