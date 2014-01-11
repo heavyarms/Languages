@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="prompt">%s attempts to create a VPN connection.</string>
+    <string name="warning">By proceeding, you are giving the application permission to intercept all நெட்வொர்க் traffic. <b>Do NOT accept unless you trust the application.</b>" Otherwise, you run the risk of having your data compromised by a malicious software. "</string>
+    <string name="accept">நான் இந்த application நம்புகிறேன்.</string>
+    <string name="legacy_title">VPN இணைக்கப்பட்டுள்ளது</string>
+    <string name="configure">Configure</string>
+    <string name="disconnect">துண்டிக்கவும்</string>
+    <string name="session">Session:</string>
+    <string name="duration">கால அளவு:</string>
+    <string name="data_transmitted">அனுப்பப்பட்டது:</string>
+    <string name="data_received">பெற்றது:</string>
+    <string name="data_value_format">%1$s bytes / %2$s packets</string>
+</resources>
