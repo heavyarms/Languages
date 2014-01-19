@@ -2,23 +2,23 @@
 <resources>
     <string name="app_name">Blocklist</string>
     <string name="fw_blocked">Blocked:</string>
-    <string name="fw_blocked_count" formatted="false">Blocked:%dcalls and %dmessages</string>
+    <string name="fw_blocked_count" formatted="false">Blocked:%dtawag at %dmensahe</string>
     <string name="tab_title">Blocklist</string>
     <string name="tab_block_log">Blocked log</string>
     <string name="tab_blacklist">Blocklist</string>
-    <string name="tab_sms">Message log</string>
-    <string name="tab_call">Call log</string>
-    <string name="bl_block_info" formatted="false">Blocked: %d, details %d</string>
-    <string name="bl_no_block_call">No blocked calls</string>
-    <string name="bl_no_block_sms">No blocked messages</string>
+    <string name="tab_sms">Mensahe log</string>
+    <string name="tab_call">Tawag log</string>
+    <string name="bl_block_info" formatted="false">Blocked: %d, detalye %d</string>
+    <string name="bl_no_block_call">No blocked tawag</string>
+    <string name="bl_no_block_sms">No blocked mensahe</string>
     <string name="bl_no_blacklist">No blocked numbers</string>
     <string name="log_count">(%d)</string>
     <string name="tab_block_log_unKnowNumber">Unknown number</string>
     <string name="marked_by_user">you marked it as</string>
-    <string name="marked_by_others">%d other users marked it as</string>
-    <string name="dlg_clear_all_sms">Delete blocked messages?</string>
-    <string name="dlg_clear_all_call">Clear blocked calls?</string>
-    <string name="dlg_clear_current_sms">Delete all blocked messages sent from this number?</string>
+    <string name="marked_by_others">%d ibang users marked it as</string>
+    <string name="dlg_clear_all_sms">Burahin blocked na mensahe?</string>
+    <string name="dlg_clear_all_call">Linisin and blocked na tawag?</string>
+    <string name="dlg_clear_current_sms">Burahin ang lahat na blocked mensahe geling sa numerong ito?</string>
     <string name="dlg_clear_current_call">Clear all blocked calls from this number?</string>
     <string name="dlg_clear_all_ok">Clear all</string>
     <string name="dlg_clear_current_ok">Delete</string>
