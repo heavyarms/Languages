@@ -19,7 +19,7 @@
     <string name="incoming_file_confirm_title">Naglilipat ng Files</string>
     <string name="incoming_file_confirm_content">"\"%1$s\" gustong ipadala sayo %2$s (%3$s).
 
- Accept the file?"</string>
+ Accept ang file?"</string>
     <string name="incoming_file_confirm_cancel">Tanggihan</string>
     <string name="incoming_file_confirm_ok">Tanggapin</string>
     <string name="incoming_file_confirm_timeout_ok">OK</string>
