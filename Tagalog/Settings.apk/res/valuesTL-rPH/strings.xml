@@ -3,16 +3,16 @@
     <string name="versionCode">2</string>
     <string name="versionName">1.0.140114</string>
     <string name="auto_startup_application_manage">Auto-start</string>
-    <string name="auto_startup_count">%d apps are currently allowed to auto-start</string>
-    <string name="man_add_application">Add auto-start apps</string>
-    <string name="application_item_disable">Deny</string>
-    <string name="application_item_permission">Allow</string>
-    <string name="application_item_already_permission">Allowed</string>
-    <string name="application_forbid_auto_startup">Forbid %s from starting in background</string>
-    <string name="floating_window_switch_label">Show popup windows</string>
-    <string name="floating_window_switch_label_disable">Hide popup windows</string>
-    <string name="app_floating_window_dlg_enable">"Enabling of %1$s's floating window settings requires the app to restart. You can also manually stop running the app yourself. 
-Enable floating windows?"</string>
+    <string name="auto_startup_count">%d Pinapahintulutan ang mga apps na mag auto-start</string>
+    <string name="man_add_application">Idagdag sa auto-start ang apps</string>
+    <string name="application_item_disable">Huwag Pahintulutan</string>
+    <string name="application_item_permission">Pahintulutan</string>
+    <string name="application_item_already_permission">Napahintulutan</string>
+    <string name="application_forbid_auto_startup">Wag payagan ang %s na mag start sa background</string>
+    <string name="floating_window_switch_label">Ipakita ang popup windows</string>
+    <string name="floating_window_switch_label_disable">Itago ang popup windows</string>
+    <string name="app_floating_window_dlg_enable">"Kapag pinahintulutan ang %1$s's floating window settings kinakailangang magrestart ang app. Pwede mo rin itigil ng manual ang app. 
+Gusto mo paganahin ang floating windows?"</string>
     <string name="app_floating_window_dlg_disable">"Disabling of %1$s's floating window settings will stop the app forcibly. You can also manually open app.
 Disable floating windows?"</string>
     <string name="dlg_ok">OK</string>
